@@ -4,7 +4,7 @@
 // License: MIT
 
 (function() {
-  var ASSET = "http://assets.stickpng.com/images/6002f9d851c2ec00048c6c78.png";
+  var ASSET = "https://raw.githubusercontent.com/SteveyJobs/random/main/6002f9d851c2ec00048c6c78_212x104.png";
   var WIDTH = 212;
   var HEIGHT = 104;
   var VERT_DIRECTIONS = ["up", "down"];
